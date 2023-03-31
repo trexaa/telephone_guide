@@ -1,12 +1,7 @@
 import os 
 import sys 
 telephone_guide ={
-    1: "Amal",
-    2: "Mohammed",
-    3: "Khadijah",
-    4: "Abdullah",
-    5: "Faisal",
-    6: "Layla"
+    
 }
 
 menu = """
